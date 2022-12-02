@@ -1,7 +1,7 @@
 const array = [-1,-2,3];
 let maxNum = 0;
 let previous = 0;
-if(array.length <= 0){
+if(array.length == 0){
     console.log(0)
 }else{
     
